@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shraddhagithub/static/css/main.0f84b87c.css",
+    "main.js": "/shraddhagithub/static/js/main.158add4e.js",
+    "static/media/android.webp": "/shraddhagithub/static/media/android.c691d9d0362dffb55fd2.webp",
+    "static/media/ios.jpg": "/shraddhagithub/static/media/ios.fa5b87c959b7ab17666c.jpg",
+    "static/media/react.png": "/shraddhagithub/static/media/react.d65ccf09693bd4fcc05f.png",
+    "static/media/web.webp": "/shraddhagithub/static/media/web.03e5393276b004fdc264.webp",
+    "index.html": "/shraddhagithub/index.html",
+    "main.0f84b87c.css.map": "/shraddhagithub/static/css/main.0f84b87c.css.map",
+    "main.158add4e.js.map": "/shraddhagithub/static/js/main.158add4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f84b87c.css",
+    "static/js/main.158add4e.js"
+  ]
+}
